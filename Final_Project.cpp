@@ -590,7 +590,7 @@ void circle3(float r1, float r2)
     }
     glEnd();
 }
-//khor
+//Cow Food
 void circle4(float r1, float r2)
 {
     int i = 0;
